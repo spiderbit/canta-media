@@ -1,0 +1,16 @@
+#BPM:170
+#COVER:Perfect Fourth.png
+#GAP:5850
+#MP3:Perfect Fourth.ogg
+#TITLE:Interval - Perfect Fourth
+#DESCRIPTION:Exercise a perfect fourth intervall.
+#YEAR:2007
+: 0 16 0 Do 
+: 16 16 5 Fa 
+- 33
+: 48 16 0 Do 
+: 64 16 5 Fa 
+- 81
+: 96 16 0 Do 
+: 112 16 5 Fa 
+E

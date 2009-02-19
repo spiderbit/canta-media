@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme xmlns="http://" xmlns:theme="http://">
+<!--
+    Canta Theme "Mozart"
+    Copyright (C) 2007, 2008  Andreas Kattner
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<!--
+    ATMOSPHERE
+        Adjust the background and sky colors.
+-->
+    <atmosphere>
+        <background_color r="20" g="0" b="0" a="255" />
+        <sky_color r="252" g="218" b="132" a="255" />
+    </atmosphere>
+<!--
+    BAR COLORS
+        Define the colors of the sing and song bars in singscreen.
+-->
+    <bars>
+	    <singbar>
+	        <color r="232" g="153" b="58" a="255" />
+	        <formula r="-20" g="-10" b="-10" a="-20" />
+	    </singbar>
+	    <posbar>
+	        <color r="232" g="153" b="58" a="170" />
+	    </posbar>
+	    <songbar type="normal">
+	        <color r="130" g="130" b="130" a="170" />
+	    </songbar>
+	    <songbar type="special">
+	        <color r="0" g="255" b="0" a="150" />
+	    </songbar>
+	    <songbar type="freestyle">
+	        <color r="0" g="255" b="0" a="150" />
+	    </songbar>
+	</bars>
+<!--
+    BORDERED BOXES
+        Define background and border colors (and border width)
+        for the bordered boxes of the GUI.
+-->
+    <box>
+        <border>
+            <color r="230" g="130" b="30" a="255" />
+            <width value="1" />
+        </border>
+        <background>
+            <color r="30" g="30" b="30" a="160" />
+        </background>
+    </box>
+<!--
+    BUTTONS
+        Define background and border colors for the buttons.
+        Buttons have two states (on-focus and off-focus).
+-->
+    <button>
+        <background type="on_focus">
+            <color r="30" g="30" b="30" a="160" />
+        </background>
+        <background type="off_focus">
+            <color r="0" g="0" b="0" a="90" />
+        </background>
+        <border type="on_focus">
+            <color r="167" g="204" b="222" a="255" />
+            <width value="1" />
+        </border>
+        <border type="off_focus">
+            <color r="255" g="255" b="255" a="0" />
+            <width value="1" />
+        </border>
+    </button>
+<!--
+    FONTS
+        Define some fonts by filename and colors.
+-->
+    <font>
+        <p>
+            <file name="FreeSans.ttf" />
+            <color r="255" g="255" b="255" a="255" />
+        </p>
+        <h1>
+            <file name="FreeSans.ttf" />
+            <color r="255" g="255" b="255" a="255" />
+        </h1>
+        <lyrics type="to_sing">
+            <file name="FreeSans.ttf" />
+            <color r="130" g="130" b="130" a="255" />
+        </lyrics>
+        <lyrics type="special">
+            <file name="FreeSans.ttf" />
+            <color r="0" g="255" b="0" a="150" />
+        </lyrics>
+        <lyrics type="active">
+            <file name="FreeSans.ttf" />
+            <color r="255" g="255" b="255" a="255" />
+        </lyrics>
+        <lyrics type="done">
+            <file name="FreeSans.ttf" />
+            <color r="230" g="130" b="30" a="155" />
+        </lyrics>
+        <button type="on_focus">
+            <file name="FreeSans.ttf" />
+            <color r="255" g="255" b="255" a="255" />
+        </button>
+        <button type="off_focus">
+            <file name="FreeSans.ttf" />
+            <color r="232" g="153" b="58" a="255" />
+        </button>
+    </font>
+<!--
+    3D PANELS
+        Define a plane in 3D space and give it a color or texture.
+-->
+    <panel name="mozart">
+        <position x="0" y="0" z="-2" />
+        <scale x="20" y="10" z="1" />
+        <rotation x="0" y="0" z="0" />
+        <color r="255" g="255" b="255" a="255" />
+        <texture name="mozart.png" />
+    </panel>
+<!--
+    3D MODELS
+        Load a Blender 3D model with the name "clef.blend" located in
+        media/blender and assign properties like position, etc.
+-->
+    <model name="clef">
+        <position x="-7.5" y="-0.2" z="-10" />
+        <scale x="0.3" y="0.3" z="0.3" />
+        <rotation x="0" y="0" z="0" />
+        <shadow value="on" />
+<!--
+        Optional element "animation":
+        Set this to "x", "y" or "z" to apply a rotation
+        to the model.
+-->
+        <animation value="y" />
+        <cellshading value="off" />
+		<envmap value="env_map.png" />
+    </model>
+</theme>

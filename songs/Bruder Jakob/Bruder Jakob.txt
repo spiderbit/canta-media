@@ -1,0 +1,44 @@
+#BPM:120
+#COVER:Bruder Jakob.png
+#GAP:4120
+#LANGUAGE:Deutsch
+#MP3:Bruder Jakob.ogg
+#TITLE:Bruder Jakob
+#DESCRIPTION:Ein bekanntes Kinderlied.
+#YEAR:2007
+: 0 4 7 Bru
+: 4 4 9 der 
+: 8 4 11 Ja
+: 12 4 7 kob, 
+: 16 4 7 Bru
+: 20 4 9 der 
+: 24 4 11 Ja
+: 28 4 7 kob, 
+- 30
+: 32 4 11 schläfst 
+: 36 4 12 du 
+: 40 8 14 noch? 
+: 48 4 11 Schläfst 
+: 52 4 12 Du 
+: 56 8 14 noch?
+- 60
+: 64 2 14 Hörst 
+: 66 2 16 Du 
+: 68 2 14 nicht 
+: 70 2 12 die 
+: 72 4 11 Gloc
+: 76 4 7 ken? 
+: 80 2 14 Hörst 
+: 82 2 16 Du 
+: 84 2 14 nicht 
+: 86 2 12 die 
+: 88 4 11 Gloc
+: 92 4 7 ken?
+- 94
+: 96 4 7 Ding 
+: 100 4 2 Dang 
+: 104 8 7 Dong. 
+: 112 4 7 Ding 
+: 116 4 2 Dang 
+: 120 6 7 Dong. 
+E

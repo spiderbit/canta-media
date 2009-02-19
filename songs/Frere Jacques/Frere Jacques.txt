@@ -1,0 +1,43 @@
+#BPM:120
+#COVER:Frere Jacques.png
+#GAP:4120
+#LANGUAGE:Français
+#MP3:Frere Jacques.ogg
+#TITLE:Frère Jacques
+#DESCRIPTION:A well-known children's song.
+: 0 4 7 Frè
+: 4 4 9 re 
+: 8 4 11 Jac
+: 12 4 7 ques, 
+: 16 4 7 Frè
+: 20 4 9 re 
+: 24 4 11 Jac
+: 28 4 7 ques, 
+- 30
+: 32 4 11 dor
+: 36 4 12 mez 
+: 40 8 14 vous? 
+: 48 4 11 Dor
+: 52 4 12 mez 
+: 56 8 14 vous?
+- 60
+: 64 2 14 Son
+: 66 2 16 nez 
+: 68 2 14 les 
+: 70 2 12 ma
+: 72 4 11 ti
+: 76 4 7 nes! 
+: 80 2 14 Son
+: 82 2 16 nez 
+: 84 2 14 les 
+: 86 2 12 ma
+: 88 4 11 ti
+: 92 4 7 nes!
+- 94
+: 96 4 7 Din, 
+: 100 4 2 dan, 
+: 104 8 7 don. 
+: 112 4 7 Din, 
+: 116 4 2 dan, 
+: 120 6 7 don.
+E
