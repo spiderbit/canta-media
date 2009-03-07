@@ -1,15 +1,15 @@
 #BPM:120
 #COVER:Frere Jacques.png
 #GAP:4120
-#LANGUAGE:Français
+#LANGUAGE:FranÃ§ais
 #MP3:Frere Jacques.ogg
-#TITLE:Frère Jacques
+#TITLE:FrÃ¨re Jacques
 #DESCRIPTION:A well-known children's song.
-: 0 4 7 Frè
+: 0 4 7 FrÃ¨
 : 4 4 9 re 
 : 8 4 11 Jac
 : 12 4 7 ques, 
-: 16 4 7 Frè
+: 16 4 7 FrÃ¨
 : 20 4 9 re 
 : 24 4 11 Jac
 : 28 4 7 ques, 

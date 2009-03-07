@@ -15,20 +15,20 @@
 : 24 4 11 Ja
 : 28 4 7 kob, 
 - 30
-: 32 4 11 schläfst 
+: 32 4 11 schlÃ¤fst 
 : 36 4 12 du 
 : 40 8 14 noch? 
-: 48 4 11 Schläfst 
+: 48 4 11 SchlÃ¤fst 
 : 52 4 12 Du 
 : 56 8 14 noch?
 - 60
-: 64 2 14 Hörst 
+: 64 2 14 HÃ¶rst 
 : 66 2 16 Du 
 : 68 2 14 nicht 
 : 70 2 12 die 
 : 72 4 11 Gloc
 : 76 4 7 ken? 
-: 80 2 14 Hörst 
+: 80 2 14 HÃ¶rst 
 : 82 2 16 Du 
 : 84 2 14 nicht 
 : 86 2 12 die 
