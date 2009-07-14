@@ -1,0 +1,12 @@
+Installation
+~~~~~~~~~~~~~
+
+1. INSTALL IT TO YOUR SYSTEM
+
+> python setup.py install   (in this directory)
+
+
+3. DEPENDENCIES:
+
+	- canta > 0.2-rc1
+
