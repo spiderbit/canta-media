@@ -5,8 +5,7 @@ Installation
 
 > python setup.py install   (in this directory)
 
-
-3. DEPENDENCIES:
-
-	- canta > 0.2-rc1
-
+This is the media files package for canta.
+The programm files are in another package,
+download the canta programm files with the same version number
+and install it after you installed this, to get canta working.
